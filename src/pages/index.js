@@ -359,7 +359,7 @@ export default (() => {
 		<RawHtml>
 			<script place={"endOfBody"} rawKey={"6067518dd36688f7d62a22a8"} />
 			<style place={"endOfBody"} rawKey={"60675287dacad1963be202bd"}>
-				{"[href=\"https://quarkly.io/\"]{\ndisplay: none;\n}"}
+				{"a[href=\"https://quarkly.io/\"]{\ndisplay: none;\n}"}
 			</style>
 		</RawHtml>
 	</Theme>;
